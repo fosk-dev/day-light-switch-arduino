@@ -1,4 +1,4 @@
-# day-light-switch-arduino
+# Day-light-switch-arduino
 
 ## Description and objectives
 
